@@ -1,4 +1,4 @@
-It was decided to use an atomic architecture, and the table itself was made universal with the possibility of duplication and expansion. The table is controlled from the data.js file. Table options such as deletion or editing or filtering can be reduced using a single object, which is quite compact.
+It was decided to use an atomic architecture, and the table itself was made universal with the possibility of duplication and expansion. The table is controlled from the *data.js* file. Table options such as deletion or editing or filtering can be reduced using a single object, which is quite compact.
 
 ## Table
 
