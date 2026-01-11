@@ -1,3 +1,5 @@
+It was decided to use an atomic architecture, and the table itself was made universal with the possibility of duplication and expansion. The table is controlled from the data.js file. Table options such as deletion or editing or filtering can be reduced using a single object, which is quite compact.
+
 ## Table
 
 <img width="2559" height="822" alt="image" src="https://github.com/user-attachments/assets/e710f450-3e14-49d7-b751-32820a4c366c" />
