@@ -1,5 +1,10 @@
 It was decided to use an atomic architecture, and the table itself was made universal with the possibility of duplication and expansion. The table is controlled from the *data.js* file. Table options such as deletion or editing or filtering can be reduced using a single object, which is quite compact.
 
+## Atomic architecture
+
+<img width="499" height="929" alt="image" src="https://github.com/user-attachments/assets/14025e9e-e3b1-485e-a968-267b90651b56" />
+
+
 All styles and words are placed in separate constants for ease of editing.
 
 from the bonus quest was not completed *Sort records by different fields* and also *Statistics dashboard*
