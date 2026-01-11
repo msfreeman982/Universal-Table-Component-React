@@ -1,0 +1,17 @@
+export const TABLE_STYLES = 'w-full table-auto border-collapse border border-gray-300 bg-white shadow-sm';
+export const EDIT_BUTTONS_CONTAINER_STYLES = 'absolute bottom-[-40px] gap-2 flex justify-center right-0';
+export const ADD_BUTTON_TEXT = 'Add';
+export const CANCEL_ADD_BUTTON_TEXT = 'Cancel';
+export const EDIT_BUTTON_TEXT = 'Edit';
+export const SAVE_EDIT_BUTTON_TEXT = 'Save';
+export const SEARCH_BUTTON_TEXT = 'Search';
+export const CANSEL_SEARCH_BUTTON_TEXT = 'Clear';
+export const APPLY_FILTER_BUTTON_TEXT = 'Apply';
+export const SUCCESS_MESSAGE = 'Added successfully';
+export const EDIT_SUCSS_MESSAGE = 'Updated';
+export const DELETE_SUCCESS_MESSAGE = 'Deleted';
+export const SUCCESS_MESSAGE_TIMEOUT = 5000;
+export const NO_RESULTS_MESSAGE = 'no records found';
+export const DELETE_TITLE = 'Delete?';
+export const DELETE_MESSAGE = 'This action cannot be undone.';
+export const DELETE_CONFIRM_BUTTON = 'Yes, delete';
