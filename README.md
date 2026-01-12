@@ -25,4 +25,4 @@ from the bonus quest was not completed *Sort records by different fields* and al
 
 <img width="2559" height="701" alt="image" src="https://github.com/user-attachments/assets/5edc28b4-cf37-4ddf-9232-6ca6314742f3" />
 
-NOTES: in principle, the table's performance could be improved by caching queries. the limit on the backend was changed for the paginator test. There were comments left in the project about what else you wanted to do but didn't have enough time.
+NOTES: in principle, the table's performance could be improved by caching queries. the limit on the backend was changed for the paginator test. There were comments left in the project about what else i wanted to do but didn't have enough time.
